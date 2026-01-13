@@ -1,3 +1,0 @@
-Too large for PLOS One filesystem, please download from here:
-
-https://github.com/tatsu-lab/stanford_alpaca
